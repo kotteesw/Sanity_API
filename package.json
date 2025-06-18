@@ -1,0 +1,12 @@
+{
+  "name": "sanity-to-sfmc",
+  "version": "1.0.0",
+  "main": "syncSanityToSFMC.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node syncSanityToSFMC.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
